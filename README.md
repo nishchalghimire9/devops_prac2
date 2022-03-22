@@ -1,1 +1,1 @@
-# devops_prac2
+this is just for git practice purpose
